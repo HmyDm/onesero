@@ -1,10 +1,12 @@
-# 监控管理页面
+<h1 style="text-align: center;">监控管理页面</h1>
 
----
+![Static Badge](https://img.shields.io/badge/views-50-blue?style=plastic&label=views&labelColor=%235a5a5a&color=blue)
+![Static Badge](https://img.shields.io/badge/Downoad-20%E4%BA%BA-brightgreen)
+
 
 > 本项目采用Vue2 + Vue-router + echarts（组件库使用的是element-ui）
 >
-> 本项目只是作者练手vue2所搭建的，该项目或多或少存在一些问题。出现的问题和缺陷会在**README**最后说明。本项目仅作为个人学习使用
+>
 
 ## 项目首页截图
 
