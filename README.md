@@ -1,12 +1,13 @@
-<h1 style="text-align: center;">监控管理页面</h1>
+ <h1 align="center">监控管理页面</h1>
+ <h3 align="center">一个Vue2做的监控前端项目</h3>
+ <h5 align="center">本项目采用Vue2 + Vue-router + echarts（组件库使用的是element-ui）</h5>
+ <p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/views-50-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Downoad-20-brightgreen">
+</p>  
 
-![Static Badge](https://img.shields.io/badge/views-50-blue?style=plastic&label=views&labelColor=%235a5a5a&color=blue)
-![Static Badge](https://img.shields.io/badge/Downoad-20%E4%BA%BA-brightgreen)
 
-
-> 本项目采用Vue2 + Vue-router + echarts（组件库使用的是element-ui）
->
->
+> 
 
 ## 项目首页截图
 
